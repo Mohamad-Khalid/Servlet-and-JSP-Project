@@ -1,4 +1,4 @@
-# Factorial Table and Age Calculator - Java Servlet and JSP Project
+# Factorial and Age Calculator - Java Servlet and JSP
 ### Project Description
 This project implements two tasks using Java Servlets, JSP, and HTML to create a Factorial Table and an Age Calculator. The application allows users to generate a table containing factorials for numbers from 0 to a specified input. It also provides a user-friendly form to input a date of birth and calculates the age in years, months, days, and hours.
 ### Features
